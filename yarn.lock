@@ -4172,6 +4172,13 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
+"intl@npm:^1.2.5":
+  version: 1.2.5
+  resolution: "intl@npm:1.2.5"
+  checksum: fc633b265c98cfe31041a94432d6a8342f2b463318517ef52bebb234f4e929af4291346f3e18f4d249cd2f559f468dde3902d7490f4a2be87076abac3a940248
+  languageName: node
+  linkType: hard
+
 "invariant@npm:^2.2.2, invariant@npm:^2.2.4":
   version: 2.2.4
   resolution: "invariant@npm:2.2.4"
@@ -6719,6 +6726,7 @@ fsevents@^1.2.7:
     expo: ~36.0.0
     expo-constants: ~8.0.0
     expo-mail-composer: ~8.0.0
+    intl: ^1.2.5
     react: ~16.9.0
     react-dom: ~16.9.0
     react-native: "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz"
