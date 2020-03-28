@@ -18,7 +18,7 @@ export default function Incidents() {
         <Text style={styles.title}>Bem Vindo!</Text>
         <Text style={styles.description}>Escolha um dos casos abaixo e salve o dia.</Text>
 
-      <View style={styles.indicentsList}>
+      <View style={styles.incidentList}>
         <View style={styles.incident}>
           <Text style={styles.incidentProperty}>ONG:</Text>
           <Text style={styles.incidentValue}>APAD</Text>
@@ -33,7 +33,7 @@ export default function Incidents() {
             style={styles.detailsButton} 
             onPress={() => {}}
           >
-          <Text styles={styles.detailsButtonText}>Ver mais detalhes</Text>
+          <Text style={styles.detailsButtonText}>Ver mais detalhes</Text>
           <Feather name="arrow-right" size={16} color="#e02041" />
           </TouchableOpacity>
         </View>
@@ -71,7 +71,7 @@ export default function Incidents() {
             style={styles.detailsButton} 
             onPress={() => {}}
           >
-          <Text styles={styles.detailsButtonText}>Ver mais detalhes</Text>
+          <Text style={styles.detailsButtonText}>Ver mais detalhes</Text>
           <Feather name="arrow-right" size={16} color="#e02041" />
           </TouchableOpacity>
         </View>
