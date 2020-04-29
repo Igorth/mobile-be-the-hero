@@ -1,7 +1,15 @@
 # Mobile -> To Be Hero
 
 [Semana Omnistack 11](https://rocketseat.com.br/)
-Learning concepts about Node.js, React and React Native.
+
+Creating my first app using React Native.
+
+## 🖥 Techs
+Node.js | Javascript | ReactJS | React Native | Expo
+
+## 🕹Demo
+
+![](mobilebethehero.gif)
 
 ## Instructions
 
@@ -16,9 +24,8 @@ First, if you don't have Node.js you'll need to install it:
 Once you've got Node installed:
 * `git clone git@github.com/Igorth/mobile-be-the-hero`
 * `cd mobile-be-the-hero`
-* `npm install` to install dependencies
+* `yarn` to install dependencies
 * `expo start` to start the project
-* Check out the repo to see the git history: `https://github.com/Igorth/mobile-be-the-hero`
 
 
 ## Contributing
@@ -27,9 +34,7 @@ Please read [CONTRIBUTING.md](https://github.com/Igorth/mobile-be-the-hero/blob/
 
 ## Authors
 
-* **Igor Dias** - *Initial work* - [Be The Hero](https://github.com/Igorth/mobile-be-the-hero)
-
-See also the list of [contributors](https://github.com/your/mobile-be-the-hero/contributors) who participated in this project.
+* [**Igor Dias**](https://www.linkedin.com/in/igordiasth/)
 
 ## License
 
